@@ -13,7 +13,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Supermarket sales analysis
 **Dataset:** 
-[Sales](https://github.com/Santhoshs623/data_analysis_portfolio/blob/main/data/Tableau%20project%201/ListOfOrders%2BOrderBreakdown_ListOfOrders.csv), [Target](https://github.com/Santhoshs623/data_analysis_portfolio/blob/main/data/Tableau%20project%201/SalesTargets%20(P1-AmazingMartEU2)_SalesTargets.csv)\
+[Sales.csv](https://github.com/Santhoshs623/data_analysis_portfolio/blob/main/data/Tableau%20project%201/ListOfOrders%2BOrderBreakdown_ListOfOrders.csv), [Target.csv](https://github.com/Santhoshs623/data_analysis_portfolio/blob/main/data/Tableau%20project%201/SalesTargets%20(P1-AmazingMartEU2)_SalesTargets.csv)\
 **Presentation:**\
 **Description:** The dataset contains 8045 records. There is a list of products with sales (by region), date of sale, ship mode, categories. The project includes the following steps: data loading, data cleaning and preprocessing, analyzing KPI (key performance index) based on product categories.\
 **Viz:** [Supplychain Analysis](https://public.tableau.com/app/profile/santhosh2711/viz/SuperStoresperformancedashboard/KPI?publish=yes)\
@@ -53,8 +53,8 @@ In this section I will list data analytics projects briefly describing the techn
 ![cluster](https://github.com/Santhoshs623/data_analysis_portfolio/assets/110184887/3a21b06a-43ae-4ccd-b1f1-89ad2f347c61)
 
 ## Contact
-**mail:** santhoshs623@gmail.com\
-**LinkedIn:** [Likedin.com/santhosh](https://www.linkedin.com/in/santhosh-sivaprakash-94364020a/)
+**E-mail:** santhoshs623@gmail.com\
+**LinkedIn:** [@santhosh](https://www.linkedin.com/in/santhosh-sivaprakash-94364020a/)
   
 
 
