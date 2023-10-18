@@ -14,7 +14,6 @@ In this section I will list data analytics projects briefly describing the techn
 ### Supermarket sales analysis
 **Dataset:** 
 [Sales.csv](https://github.com/Santhoshs623/data_analysis_portfolio/blob/main/data/Tableau%20project%201/ListOfOrders%2BOrderBreakdown_ListOfOrders.csv), [Target.csv](https://github.com/Santhoshs623/data_analysis_portfolio/blob/main/data/Tableau%20project%201/SalesTargets%20(P1-AmazingMartEU2)_SalesTargets.csv)\
-**Presentation:**\
 **Description:** The dataset contains 8045 records. There is a list of products with sales (by region), date of sale, ship mode, categories. The project includes the following steps: data loading, data cleaning and preprocessing, analyzing KPI (key performance index) based on product categories.\
 **Viz:** [Supplychain Analysis](https://public.tableau.com/app/profile/santhosh2711/viz/SuperStoresperformancedashboard/KPI?publish=yes)\
 **Results:** 
